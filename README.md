@@ -30,7 +30,7 @@ Put a line ABOVE me!
 that takes up three lines but on
 the preview it looks like one line"
 
-** Make me bold **
+**Make me bold**
 
 _Make me italicized_
 
